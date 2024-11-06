@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>WEB | Portofolio</title>
+    </head>
+    <body>
+        
+
+        <nav>
+            <ul>
+                <1i><a href="">About</a></1i>
+                <1i><a href="">Portofolio</a></1i>
+                <1i><a href="">Blog</a></1i>
+                <1i><a href="">Contact</a></1i>
+            <ul>
+            <nav>
+
+
+            
+            <img src="online.png" alt= "" />
+
+            <h1>Biodata Diri</h1>
+            <br />
+            <h2>Saya adalah siswa di SMK Telkom Purwokerto</h2>
+            <br /><br />
+            <p>
+
+
+
+
+
+            </p>
+            <a href="" class="action-btn">Profile Saya</a>
+
+            </section>
+
+
+            <footer>
+                <ul>
+                    <1i>
+                        <img src="instagram.png" alt="" /><a><p>Instagram</p></a>
+                    </1i>
+                    <1i>
+                        <img src="Facebook.png" alt="" /><a><p>Facebook</p></a>
+                    </1i>
+                    <1i>
+                        <img src="twitter.png" alt="" /><a><p>Twitter</p></a>
+                    </1i>
+                    <1i>
+                        <img src="Telegram.png" alt="" /><a><p>Telegram</p></a>
+                    </1i>
+                </ul>
+            
+        </body>
+</html>
